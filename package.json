@@ -1,0 +1,16 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Omar_",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "xlsx": "^0.18.5"
+  }
+}
